@@ -78,7 +78,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-image: url('/images/texture.png');
+            background-image: url('images/texture.png');
             background-repeat: repeat;
             /* Pour que la texture couvre tout */
             opacity: 0.8;
